@@ -36,6 +36,18 @@ Aplicar os conhecimentos aprendidos no curso em projetos práticos de Ciência d
 
 ---
 
+- # Habilidades
+- Domínio do Python
+- Linguagem SQL/postgresql
+- Árvore de decisão na prática
+- Big Data e Machine Learning
+- Competências/Ferramentas
+- Visualização de dados
+- Padronizações
+- Resolução de problemas com base em dados
+
+---
+
 ## 📦 Como Executar
 
 1. Clone o repositório:
