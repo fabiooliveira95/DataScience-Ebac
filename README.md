@@ -70,6 +70,7 @@ Fonte: EBAC
 👨‍💻 Autor
 
 Fábio: Fabio Oliveira
+
 GitHub: https://github.com/fabiooliveira95
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/fabio-oliveira-araujo-cientista/)
