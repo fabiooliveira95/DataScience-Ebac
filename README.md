@@ -139,7 +139,7 @@ Aplicativos: Visualização, Algoritmos de maior eficiência.
 
 Comparar, validar e escolher parâmetros e modelos.
 
-Aplicativos: Precisão melhorada através de algoritmos de ajuste de afinação.
+Aplicativos: precisão melhorada através de algoritmos de ajuste de afinação.
 
 - Pré-processamento
 
