@@ -62,3 +62,19 @@ Aplicar os conhecimentos aprendidos no curso em projetos práticos de Ciência d
 
     bash
     jupyter notebook
+
+📊 Dataset
+Nome: DataScience-Ebac
+Fonte: EBAC
+
+👨‍💻 Autor
+
+Fábio: Fabio Oliveira
+GitHub: https://github.com/fabiooliveira95
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/fabio-oliveira-araujo-cientista/)
+
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+
+
+
